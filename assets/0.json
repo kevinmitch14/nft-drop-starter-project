@@ -1,0 +1,19 @@
+{
+  "name": "Brendan Eich",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8ZywCQ6jpNKvHLFqFMUB1PojHYinAeZ8nVcgSmYDE1fh",
+        "share": 100
+      }
+    ]
+  }
+}
